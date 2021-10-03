@@ -4,9 +4,9 @@ role: Phd Student
 bio: My research interests include computer vision, video understanding and
   multimodal AI.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Video Understanding
+  - Multimodal AI
 social:
   - icon: envelope
     icon_pack: fas
