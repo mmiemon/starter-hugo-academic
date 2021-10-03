@@ -1,8 +1,8 @@
 ---
 title: Md Mohaiminul Islam
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Phd Student
+bio: My research interests include computer vision, video understanding and
+  multimodal AI.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
